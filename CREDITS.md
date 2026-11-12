@@ -19,6 +19,9 @@ are Unsplash+ (paid) images.
 | concrete-blocks.jpg | Cement, Blocks & Aggregates card | Trương Tuyết Ly (@liliantruong2603) | https://unsplash.com/photos/OCwOh2tst24 |
 | hardware-tools.jpg | Hardware, Tools & Paints card | Darien Attridge (@dariendesigns) | https://unsplash.com/photos/ciY4tc7539I |
 | technician.jpg | Why Bonava section | Valentin Lacoste (@valentinlacoste) | https://unsplash.com/photos/ufT32_VFS-I |
+| laptop-repair.jpg | Laptop Maintenance & Repair card | Samsung Memory (@samsungmemory) | https://unsplash.com/photos/6RcDLyy0s1I |
+| laptop-supply.jpg | Laptop Procurement card | @eroneko11 | https://unsplash.com/photos/i5UV2HpITYA |
+| electrical-circuits.jpg | Electrical Circuits & Wiring card | @toolmash | https://unsplash.com/photos/PkHf7BUWbtk |
 | scaffolding.jpg | Spare (not currently used) | Mister Paps (@themisterpaps) | https://unsplash.com/photos/nwd7YaH9g_c |
 
 Note: these are stock photos, not photos of Bonava's own staff, stock or projects. Replace them with
